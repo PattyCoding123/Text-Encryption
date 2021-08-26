@@ -1,5 +1,4 @@
 # Patrick Ducusin
-# Extra Credit Question 1
 
 def transposeText(s):
 
